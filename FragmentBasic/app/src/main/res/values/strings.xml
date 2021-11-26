@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment Basic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minion">Minion</string>
+    <string name="todo">TODO</string>
+    <string name="masha">Masha</string>
+    <string name="todo1">TODO</string>
+    <string name="ini_settings">Ini Settings</string>
+    <string name="rafli">Rafli</string>
+    <string name="todo2">TODO</string>
+    <string name="mpiz">Mpiz</string>
+    <string name="todo3">TODO</string>
+</resources>
